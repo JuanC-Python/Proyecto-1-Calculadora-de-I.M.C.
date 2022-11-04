@@ -36,3 +36,4 @@ while pregunta == 1:
         print(f"Su Índice de Masa Corporal (IMC) es: {IMC:.2f} ")
         pregunta = int(input(
             """Gracias por usar la calculadora de IMC, ¿Quieres volver a realizar la medición? \n1 -Si 2 -No \n"""))
+#################################################################################################################################3
