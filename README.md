@@ -1,0 +1,3 @@
+# Proyecto-1-Calculadora-de-I.M.C.
+
+Se crea un ciclo while que realizará una iteración mientras una variable tenga un valor especifico, este valor al finalizar cada iteración se le preguntará al usuario si desea continuar y su respuesta continuará o detendrá el ciclo, por otro lado, por medio de condicionales se ingresan datos tales como nombre, apellidos, edad, peso, estatura, se revisa mediante un if not si el usuario no ha ingresado datos, finalmente las variables numéricas se castean para hallar mediante la formula la masa corporal y por medio de una cadena formateada se muestran los datos ingresados mas la masa corporal hallada.
